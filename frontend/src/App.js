@@ -1,5 +1,6 @@
 
 import '../src/app.css'
+import DealerHours from './components/DealerHours';
 import Footer from './components/Footer';
 import MapImg from './components/MapImg';
 import NavBar from './components/NavBar';
@@ -12,6 +13,7 @@ function App() {
     <div className="App">
       <NavBar />
       <VehicleImg />
+      <DealerHours />
       <MapImg />
       <Footer />
     </div>

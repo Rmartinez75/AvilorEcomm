@@ -1,0 +1,14 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.dealer-page{    
+    background-color: gray;
+}
+.hours{
+    text-align: center;
+}
+.dealer-hours, .days{
+    color: rgb(191, 192, 193) !important;
+}

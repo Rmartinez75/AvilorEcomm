@@ -1,0 +1,33 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.map-desk{
+    display: none;
+}
+.map-mobile{
+    display: block;
+    width: 100%;
+}
+
+/* TABLET */
+@media all and (min-width: 810px){
+    .map-mobile{
+        display: none;
+    }
+    .map-desk{
+        display: block;
+        width: 100%;
+    }
+}
+
+/* DESKTOP */
+@media all and (min-width: 1025px){
+    .map-mobile{
+        display: none;
+    }
+    .map-desk{
+        display: block;
+    }
+}

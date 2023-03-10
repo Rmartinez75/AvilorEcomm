@@ -6,6 +6,7 @@
 
 .footer{
     margin-top: auto;
+    color: rgb(191, 192, 193) !important;
 }
 .footer-start{
     background-color: rgb(124, 112, 112);
@@ -21,6 +22,9 @@
     text-align: center;
     padding-left: 50px;
     padding-right: 50px;
+}
+.footer-text{
+    color: rgb(191, 192, 193) !important;
 }
 .footer-copyright{
     background-color: #020202 !important;

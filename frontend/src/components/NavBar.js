@@ -13,8 +13,8 @@ function NavBar() {
       </Navbar>
       <div className='name-logo'>
       <Container className='name-logo'>
-        <h2>AVILOR AUTO GROUP</h2>
-        <h3>77 WINDSOR PLACE <br/>CENTRAL ISLIP NY 11722 <br/>(555)555-5555</h3>
+        <h2 className='mid-nav'>AVILOR AUTO GROUP</h2>
+        <h3 className='mid-nav'>77 WINDSOR PLACE <br/>CENTRAL ISLIP NY 11722 <br/>(555)555-5555</h3>
       </Container>
       </div>
       <Navbar bg="primary" variant="dark">
