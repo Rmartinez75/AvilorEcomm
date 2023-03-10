@@ -1,0 +1,30 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.footer{
+    margin-top: auto;
+}
+.footer-start{
+    background-color: rgb(124, 112, 112);
+    color: rgb(189, 190, 191);
+}
+.title{
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.cars{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.footer-copyright{
+    background-color: #020202 !important;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 13px;
+}

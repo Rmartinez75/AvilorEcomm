@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar-style{
+    display: block;
+}
+
+.name-logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(124, 112, 112);
+}
+
+.nav-links{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
